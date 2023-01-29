@@ -1,35 +1,9 @@
 import logo from "./logo.svg";
-// import "./App.css";
 import "./assets/css/styles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.js";
-// import bootstrap from "bootstrap";
 
 function App() {
-  // window.addEventListener("DOMContentLoaded", (event) => {
-  //   // Activate Bootstrap scrollspy on the main nav element
-  //   const sideNav = document.body.querySelector("#sideNav");
-  //   if (sideNav) {
-  //     new bootstrap.ScrollSpy(document.body, {
-  //       target: "#sideNav",
-  //       offset: 74,
-  //     });
-  //   }
-
-  //   // Collapse responsive navbar when toggler is visible
-  //   const navbarToggler = document.body.querySelector(".navbar-toggler");
-  //   const responsiveNavItems = [].slice.call(
-  //     document.querySelectorAll("#navbarResponsive .nav-link")
-  //   );
-  //   responsiveNavItems.map(function (responsiveNavItem) {
-  //     responsiveNavItem.addEventListener("click", () => {
-  //       if (window.getComputedStyle(navbarToggler).display !== "none") {
-  //         navbarToggler.click();
-  //       }
-  //     });
-  //   });
-  // });
-
   return (
     <>
       {/* <!-- Navigation--> */}
@@ -38,7 +12,7 @@ function App() {
         id="sideNav"
       >
         <a className="navbar-brand js-scroll-trigger" href="#page-top">
-          <span className="d-block d-lg-none">Clarence Taylor</span>
+          <span className="d-block d-lg-none">BHAVESH SINGH MERTIYA</span>
           <span className="d-none d-lg-block">
             <img
               className="img-fluid img-profile rounded-circle mx-auto mb-2"
@@ -99,12 +73,14 @@ function App() {
         <section className="resume-section" id="about">
           <div className="resume-section-content">
             <h1 className="mb-0">
-              Clarence
-              <span className="text-primary">Taylor</span>
+              Bhavesh
+              <span className="text-primary"> Singh Mertiya</span>
             </h1>
             <div className="subheading mb-5">
-              3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
-              <a href="mailto:name@email.com">name@email.com</a>
+              16, CHB Street · JODHPUR, CO 342001· (+91) 905-716-3151·{" "}
+              <a href="mailto:26bhaveshsingh@gmail.com">
+                26bhaveshsingh@gmail.com
+              </a>
             </div>
             <p className="lead mb-5">
               I am experienced in leveraging agile frameworks to provide a
