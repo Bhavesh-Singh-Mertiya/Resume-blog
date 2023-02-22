@@ -6,56 +6,68 @@ function index() {
       <section className="resume-section" id="experience">
         <div className="resume-section-content">
           <h2 className="mb-5">Experience</h2>
+
+          {/* Matellio Experience */}
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Web Front End Engineer</h3>
+              <div className="subheading mb-3">Matellio India Pvt. Ltd.</div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+                Working as a Front End Engineer level II on ReactJs technology
+                on multiple projects. We create robust and dynamic user friendly
+                applications. We use latest tools and techniques in our ReactJs
+                applications like Redux, context API's, Formik, Yup,
+                lazyLoading, React-select, react-router-doms and many more to
+                make our application very fast.
               </p>
             </div>
             <div className="flex-shrink-0">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">January 2021 - Present</span>
             </div>
           </div>
+
+          {/* SWPL intern */}
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Student Intern</h3>
+              <div className="subheading mb-3">SWPL</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+                My profile in this company was not specific to any particular
+                area we used to do Connect with people, branding the courses of
+                the company, connecting with new students, making Posters in
+                Canvas. I learned how to connect with people how to work in a
+                student community. Creating new ideas to take the company at
+                next level. Creating and adding new members to the community for
+                better growth.
               </p>
             </div>
             <div className="flex-shrink-0">
-              <span className="text-primary">December 2011 - March 2013</span>
+              <span className="text-primary">
+                Octomber 2020 - September 2020
+              </span>
             </div>
           </div>
+
+          {/* InitCoders intern*/}
           <div className="d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="flex-grow-1">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Web Developer Intern</h3>
+              <div className="subheading mb-3">InitCoders</div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+                Work as a Intern Web dev, where i learned how to develop static
+                web pages using HTML, CSS and Bootstrap. I worked as a Fullstack
+                dev on Ruby On Rails (ROR) Technology. Learned how to work on
+                Model View Controller (MVC) based architecture. I experienced
+                how the company works on the projects what were the tools and
+                technologies we should learn to grow in our carrer.
               </p>
             </div>
             <div className="flex-shrink-0">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">October 2019- December 2019</span>
             </div>
           </div>
-          <div className="d-flex flex-column flex-md-row justify-content-between">
+
+          {/* <div className="d-flex flex-column flex-md-row justify-content-between">
             <div className="flex-grow-1">
               <h3 className="mb-0">Web Design Intern</h3>
               <div className="subheading mb-3">Shout! Media Productions</div>
@@ -69,7 +81,7 @@ function index() {
             <div className="flex-shrink-0">
               <span className="text-primary">September 2008 - June 2010</span>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
       <hr className="m-0" />
