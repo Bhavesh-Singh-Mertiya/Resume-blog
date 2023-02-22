@@ -8,16 +8,46 @@ function index() {
           <h2 className="mb-5">Interests</h2>
           <p>
             Apart from being a web developer, I enjoy most of my time being
-            outdoors. In the winter, I am an avid skier and novice ice climber.
-            During the warmer months here in Colorado, I enjoy mountain biking,
-            free climbing, and kayaking.
+            outdoors. In the winter,I love the sun in the winter I usualy sits a
+            lot in terrace to take sun. During the warmer months here in
+            Jodhpur, I enjoy early morning walk, cycling and free climbing.
           </p>
+          <div className="resume-section-content">
+            <ul className="list-inline dev-icons">
+              <li className="list-inline-item">
+                <i class="fa-solid fa-person-walking"></i>
+              </li>
+
+              <li className="list-inline-item">
+                {/* <i class="fa-sharp fa-regular fa-hand-holding-seedling"></i> */}
+              </li>
+
+              <li className="list-inline-item">
+                <i class="fa-solid fa-volleyball"></i>
+              </li>
+            </ul>
+          </div>
           <p className="mb-0">
-            When forced indoors, I follow a number of sci-fi and fantasy genre
-            movies and television shows, I am an aspiring chef, and I spend a
-            large amount of my free time exploring the latest technology
-            advancements in the front-end web development world.
+            When forced indoors,I Loved to play Table Tennis, Chess, Carom
+            board. I am an aspiring chef, and I spend a large amount of my free
+            time exploring the latest technology advancements in the front-end
+            web development world.
           </p>
+          <br />
+          <div className="resume-section-content">
+            <ul className="list-inline dev-icons">
+              <li className="list-inline-item">
+                <i className="	fas fa-chess"></i>
+              </li>
+              <li className="list-inline-item">
+                <i class="fas fa-table-tennis"></i>
+              </li>
+
+              <li className="list-inline-item"></li>
+            </ul>
+          </div>
+
+          <br />
         </div>
       </section>
       <hr className="m-0" />
