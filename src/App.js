@@ -9,6 +9,7 @@ import Skills from "./component/Skills";
 import Interests from "./component/Interests";
 import Awards from "./component/Awards";
 import Experience from "./component/Experience";
+import Projects from "./component/Projects";
 
 function App() {
   return (
@@ -52,6 +53,11 @@ function App() {
               </a>
             </li>
             <li className="nav-item">
+              <a className="nav-link js-scroll-trigger" href="#projects">
+                Projects
+              </a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#education">
                 Education
               </a>
@@ -79,6 +85,8 @@ function App() {
         <About />
 
         <Experience />
+
+        <Projects />
 
         <Education />
 

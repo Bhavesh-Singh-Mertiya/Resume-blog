@@ -11,51 +11,33 @@ function index() {
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning"></i>
               </span>
-              Google Analytics Certified Developer
+              C, CPP, java Certification from Dematics
             </li>
             <li>
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning"></i>
               </span>
-              Mobile Web Specialist - Google Certification
+              Java, Ruby, HTML Certification from SoloLearn
             </li>
             <li>
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning"></i>
               </span>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
-            </li>
-            <li>
-              <span className="fa-li">
-                <i className="fas fa-trophy text-warning"></i>
-              </span>
-              1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
-            </li>
-            <li>
-              <span className="fa-li">
-                <i className="fas fa-trophy text-warning"></i>
-              </span>
-              2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
+              Python many courses Certification from DataCamp
             </li>
             <li>
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning"></i>
               </span>
               1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
+              Place - Matellio Hackethon - 2021
             </li>
             <li>
               <span className="fa-li">
                 <i className="fas fa-trophy text-warning"></i>
               </span>
-              3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
+              1<sup>st</sup>
+              Place - Inter School Volleyball - Competition
             </li>
           </ul>
         </div>

@@ -10,7 +10,9 @@ function index() {
             Apart from being a web developer, I enjoy most of my time being
             outdoors. In the winter,I love the sun in the winter I usualy sits a
             lot in terrace to take sun. During the warmer months here in
-            Jodhpur, I enjoy early morning walk, cycling and free climbing.
+            Jodhpur, I enjoy early morning walk &#x1F304;, cycling &#x1F6B4; and
+            free climbing. Last but not least my favourite Interest is
+            gardening, I like to grow tree &#128525;.
           </p>
           <div className="resume-section-content">
             <ul className="list-inline dev-icons">
