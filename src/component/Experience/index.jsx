@@ -16,14 +16,17 @@ function index() {
                 Working as a Front End Engineer level II on ReactJs technology
                 on multiple projects. We create robust and dynamic user friendly
                 applications. We use latest tools and techniques in our ReactJs
-                applications like Redux, context API's, Formik, Yup,
-                lazyLoading, React-select, react-router-doms and many more to
-                make our application very fast.
+                applications like{" "}
+                <b>
+                  Redux, context API's, Formik, Yup, lazyLoading, React-select,
+                  react-router-doms and many more
+                </b>{" "}
+                to make our application very fast.
                 <br />
-                We follow Agile methodology approach in our projects, we use
-                Jira Atlassian software to create sprint task and tickets. Each
-                sprint is of 10 days and start of sprint all tickets and
-                estimations our done.
+                We follow <b>Agile methodology</b> approach in our projects, we
+                use <b>Jira Atlassian </b> software to create sprint task and
+                tickets. Each sprint is of 10 days and start of sprint all
+                tickets and estimations our done.
               </p>
             </div>
             <div className="flex-shrink-0">

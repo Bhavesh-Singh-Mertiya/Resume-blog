@@ -11,22 +11,19 @@ function index() {
             <span className="text-primary"> Singh Mertiya</span>
           </h1>
           <div className="subheading mb-5">
-            16, CHB Street· JODHPUR, CO 342001· (+91) 905-716-3151·{" "}
+            16E/7, CHB Street· JODHPUR, CO 342008· (+91) 905-716-3151·{" "}
             <a href="mailto:26bhaveshsingh@gmail.com">
               26bhaveshsingh@gmail.com
             </a>
           </div>
           <p className="lead mb-5 fs-5">
             I am <b>Software Engineer</b> at <b>Matellio India Pvt. Ltd. </b>{" "}
-            with <b>2+</b> year of Experience.
+            with <b>3+</b> year of Experience.
             <br></br>I am experienced in leveraging <b>ReactJs</b> library to
             provide a robust and full fledge dynamic websites. We follow Agile
             methodology for the successfull delivery of our projects on time.
-            Also familiar with backed services for creating API's with NodeJS.
-            {/* I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition. */}
+            Also familiar with backed services for creating{" "}
+            <b> API's with NodeJS</b> .
           </p>
           <div className="social-icons">
             <a
