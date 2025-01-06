@@ -17,15 +17,15 @@ function index() {
           <div className="resume-section-content">
             <ul className="list-inline dev-icons">
               <li className="list-inline-item">
-                <i class="fa-solid fa-person-walking"></i>
+                <i className="fa-solid fa-person-walking"></i>
               </li>
 
               <li className="list-inline-item">
-                {/* <i class="fa-sharp fa-regular fa-hand-holding-seedling"></i> */}
+                {/* <i className="fa-sharp fa-regular fa-hand-holding-seedling"></i> */}
               </li>
 
               <li className="list-inline-item">
-                <i class="fa-solid fa-volleyball"></i>
+                <i className="fa-solid fa-volleyball"></i>
               </li>
             </ul>
           </div>
@@ -42,7 +42,7 @@ function index() {
                 <i className="	fas fa-chess"></i>
               </li>
               <li className="list-inline-item">
-                <i class="fas fa-table-tennis"></i>
+                <i className="fas fa-table-tennis"></i>
               </li>
 
               <li className="list-inline-item"></li>

@@ -18,13 +18,13 @@ function index() {
               <i className="fab fa-js-square"></i>
             </li>
             <li className="list-inline-item">
-              <i class="fa-brands fa-github"></i>
+              <i className="fa-brands fa-github"></i>
             </li>
             <li className="list-inline-item">
-              <i class="fab fa-bootstrap"></i>
+              <i className="fab fa-bootstrap"></i>
             </li>
             <li className="list-inline-item">
-              <i class="fab fa-jira"></i>
+              <i className="fab fa-jira"></i>
             </li>
             {/* 
             <li className="list-inline-item">
